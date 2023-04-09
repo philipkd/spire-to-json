@@ -14,4 +14,4 @@
 
 # Credits
 
-Thanks to GoodManWEN for making [SaveTheSpire](https://github.com/GoodManWEN/SaveTheSpire). I copied and tweaked his `savefile.py` from there.
+Thanks to GoodManWEN for making [SaveTheSpire](https://github.com/GoodManWEN/SaveTheSpire). I copied and tweaked his `savefile.py`.
